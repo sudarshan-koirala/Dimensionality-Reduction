@@ -13,6 +13,7 @@ Which wine to recommend to which segment of customers ?
 ## Dataset
 
 The Wine dataset consists 178 rows and 13 dependent variables which gives the different chemical components in one specific wine. The dependent variable consists 3 different clusters(1, 2, 3) of customers who preferred specific wines.
+[dataset link](https://archive.ics.uci.edu/ml/datasets/Wine)
 
 ## Solution
 
