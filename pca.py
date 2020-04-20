@@ -29,6 +29,7 @@ X_test = sc.transform(X_test)
 # Applying PCA
 # first start n_components with None and view value with explained_variance (v. imp)
 from sklearn.decomposition import PCA
+#pca = PCA(n_components = None)
 pca = PCA(n_components = 2)
 X_train = pca.fit_transform(X_train)
 X_test = pca.transform(X_test)
